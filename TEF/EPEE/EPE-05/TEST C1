@@ -1,1 +1,77 @@
+Test Code
+11 April 2026
+EPE 05 Test C1
+Engineering Family
+FSEPE
+Substrate:
+Cushioned Vinyl (standard)
+
+Adhesive:
+Hot-melt adhesive
+
+Upper layer:
+Kitchen foil
+
+Method Summary:
+An attempt was made to attach kitchen foil to standard floor vinyl using the hot-melt adhesive cut to the size of the A5 size floor vinyl piece using an iron to heat the surface.
+
+Observed Behaviours:
+-The enormous heat and pressure caused the cushioned vinyl to lose its foam qualities. It basically became a standard, if thick, vinyl layer.
+- The adhesive stuck to neither the foil NOR the flattened cushioned vinyl layer.
+
+Outcome State
+Terminal Fail
+
+Lineage Notes
+This was the first FSEP test, with a date and time (it was performed a day before this report was written). 
+
+ Cross References
+It was the first test in this family of tests and so it has no comparison to other tests.
+
+Doctrinal Implications
+This test showed that
+[1] heat and pressure reduce considerably the foam-like characteristic of floor vinyl when applied directly with an iron directly to the cushioned vinyl.
+[2] hot-melt adhesive will not stick to kitchen foil.
+[3] hot-melt adhesive will be less likely to stick to cushioned vinyl.
+
+
+Floor Vinyl with an additional layer of felt (referred to heronin as “furry floor vinyl” or “furry lino”.
+
+TEF — Test Entry Form (Canonical Structure)
+Test Code
+DATE TEST PERFORMED
+EPE XX Test [Letter/Number]
+Engineering Family
+SLEPE / ASEPE / FLEPE / MSEPE / TEMSEP / FSEPE / Hybrid
+Floor Vinyl with an additional layer of felt (referred to heronin as “furry floor vinyl” or “furry lino”.
+Materials Used
+Substrate, adhesives, fluids, membranes, foils, tools, etc.
+Method Summary
+How the plate was constructed, pressed, cured, cut, or inked.
+Observed Behaviours
+•	Skin formation
+•	Adhesion behaviour
+•	Cutting behaviour
+•	Ink absorption or shedding
+•	Hydrophobicity or oleophobicity
+•	Failure modes
+Outcome State
+Success / Partial Success / Fail / Terminal Fail
+Lineage Notes
+•	Performed early or late
+•	Lay dormant for days or months
+•	Initially misclassified
+•	Transitioned between families
+•	Triggered by another test
+•	Retroactively understood
+Cross References
+Links to related tests, precursors, descendants, or parallel developments.
+Doctrinal Implications
+•	Principles derived
+•	Rules inferred
+•	Methods validated or disproven
+•	Behaviours that became canonical
+•	Insights that shaped later families
+Mythic/Humorous Layer (optional)
+Symbolic, tonal, or narrative elements present during the test that enrich the archive but do not affect the technical results.
 
