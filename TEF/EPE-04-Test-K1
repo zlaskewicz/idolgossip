@@ -1,0 +1,67 @@
+TEF — EPE‑04‑K1
+
+Family: EPE‑04 (MSEPE — Membrane‑Sealed Excision Plate Engineering)
+Subtype: Foil‑Membrane Sealed Plate
+Event Date: 13 April 2026
+Preparation Date: ~1 week prior
+Substrate
+
+Brown, double‑sided, slightly bendable oval placemat with a smooth upper surface and flexible composite body.
+Materials
+
+    Tacky glue (single uniform coat)
+
+    Giftwrap foil (three‑layer laminate: PET carrier → metallic foil → tint layer)
+
+    Foil placed face‑down as pressing surface
+
+Procedure
+
+    A single coat of tacky glue was applied to the placemat surface.
+
+    Giftwrap foil was placed face‑down onto the wet glue, functioning initially as a SLEP‑style pressing sheet.
+
+    The plate was left to cure for approximately one week.
+
+    Today, the PET carrier sheet was peeled back to assess adhesion and layer behaviour.
+
+    A small test incision was made into the resulting surface to evaluate excision behaviour.
+
+Observations
+
+    The clear PET carrier lifted off in one intact membrane.
+
+    The metallic foil + tint layer separated from the PET and remained fully sealed into the tacky‑glue skin.
+
+    The separation was clean, with no tearing or partial transfer.
+
+    The resulting surface is a metallic‑tint composite skin bonded to the placemat, with the PET acting as a sacrificial membrane.
+
+    A small incision cut into the surface excised successfully, removing only the engineered skin layer and exposing the ink‑amenable lower glue layer without damaging the substrate.
+
+    This confirms that the plate is structurally excisable and behaves as a functional MSEP, pending inking tests.
+
+Interpretation
+
+This test began as a SLEP‑style pressing experiment but revealed itself as a true membrane‑sealed event when the PET carrier released cleanly, leaving the functional metallic+tint layer sealed beneath. The giftwrap foil’s internal structure (PET → foil → tint) enabled a selective transfer identical in logic to TEMSEP and IEMSEP behaviour: the membrane releases, the functional layer remains embedded.
+
+The successful incision demonstrates that the sealed metallic‑tint skin behaves as a cuttable, non‑destructive excision surface, with a predictable failure plane and direct access to the ink‑receiving layer. This elevates EPE‑04‑K1 from a structural curiosity to a fully functional MSEP prototype.
+Lineage Notes
+
+    Ancestor logic: TEMSEP/IEMSEP membrane‑release behaviour.
+
+    Sibling logic: Other EPE‑04 membrane‑sealed plates using sacrificial carriers.
+
+    Descendant potential:
+
+        Foil‑membrane variants with controlled tint thickness
+
+        Multi‑layer metallic membranes
+
+        Pressure‑modulated foil‑transfer MSEPs
+
+        Hybrid MSEP/SLEP plates with engineered incision depth
+
+Tags
+
+MSEPE EPE‑04 Foil‑Membrane Giftwrap‑Laminate Membrane‑Release PET‑Carrier Tacky‑Glue‑Skin Excision‑Validated Lineage‑Bearing
