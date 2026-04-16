@@ -1,0 +1,41 @@
+TEF EPE‑05‑F1 — Furry Floor Vinyl + Thermal Adhesive + Laminating Pouch
+
+Substrate:  
+Felt‑backed floor vinyl.
+
+Fusion Stack:  
+Thermal adhesive sheet (full) → heat‑gun activation → laminating pouch (half) → iron at maximum heat under wax paper.
+
+Observations:
+
+    Adhesion appears strong; no immediate delamination.
+
+    Thermal adhesive is extremely sticky when activated—previously too sticky, but on this substrate it may be advantageous.
+
+    No cutting tests yet; excision behaviour unknown.
+
+Failure Modes:
+
+    Potential over‑stickiness may cause tearing of felt layer during excision.
+
+    Heat‑gun activation step risks repeating E1’s thermal runaway, though less severe here.
+
+Success Modes:
+
+    Promising bond strength.
+
+    Stack integrity visually stable.
+
+Implications for Doctrine:
+
+    Introduces Dual‑Adhesive Fusion Hypothesis: combining thermal adhesive + laminating pouch may create a hybrid fusion layer with improved mechanical grip.
+
+    Must test whether this hybrid layer remains cuttable without substrate tear‑out.
+
+Next Steps:
+
+    F1‑C1: perform swivel‑knife cutting tests.
+
+    F1‑I1: perform inking tests to evaluate excision clarity and edge behaviour.
+
+    If successful, branch into F2 with controlled laminator‑only fusion.
